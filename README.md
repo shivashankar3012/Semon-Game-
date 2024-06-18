@@ -1,4 +1,4 @@
-# New Project
+# Basic JavaScript Project
+## Semon Game
 
-This project was created from local system.
 Created by N Shiva Shankar.
